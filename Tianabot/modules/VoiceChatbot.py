@@ -27,6 +27,7 @@ async def ai_lycia(url):
     return ai_name
 
 
+
 @LYCIA.on_message(filters.command("tiana"))
 async def Lycia(_, message):
     if len(message.command) < 2:
