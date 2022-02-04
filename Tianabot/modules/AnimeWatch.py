@@ -87,3 +87,4 @@ async def episode(event):
     cbutton.append(butons)
     butons = []
  await event.edit(text, buttons=cbutton)
+stable
