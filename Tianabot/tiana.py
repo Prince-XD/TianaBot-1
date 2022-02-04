@@ -28,3 +28,5 @@ def inlinequery(**args):
         return func
 
     return decorator
+
+#kid
