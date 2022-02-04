@@ -97,6 +97,7 @@ Native Name:- {nonive}
 population:- {waste}
 Region:- {reg}
 Sub Region:- {sub}
+
 Time Zones:- {tom}
 Top Level Domain:- {lanester}
 wikipedia:- {wiki}</b>
